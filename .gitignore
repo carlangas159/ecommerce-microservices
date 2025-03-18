@@ -1,0 +1,13 @@
+order-service/node_modules
+order-service/.env
+order-service/.env.local
+order-service/.env.development
+order-service/.env.production
+order-service/.env.test
+order-service/dist
+order-service/coverage
+order-service/logs
+order-service/test
+order-service/test-results
+order-service/tsconfig.json
+order-service/tsconfig.node.json
